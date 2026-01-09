@@ -1,11 +1,12 @@
 {
   "name": "@j-ho/chamelo",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "type": "module",
   "description": "Chameleon-like adaptive banner that extracts colors from images using K-means clustering",
   "main": "./dist/chamelo.cjs",
   "module": "./dist/chamelo.mjs",
   "types": "./dist/index.d.ts",
+  "author": "j-ho",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
